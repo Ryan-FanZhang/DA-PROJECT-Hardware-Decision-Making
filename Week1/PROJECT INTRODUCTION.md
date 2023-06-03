@@ -1,6 +1,6 @@
 # PROJECT INTRODUCTION
 
-![Untitled.jpg](PROJECT%20INTRODUCTION%20c01f0b3251e6412bb3fa140623f25bcf/Untitled.jpg)
+![Untitled.jpg](Untitled.jpg)
 
 ## COMPANY BACKGROUND
 
@@ -50,9 +50,9 @@ It's important to note that all data requests will be submitted to the business 
 ## TECH STACK DOWNLOADING LINKS
 
 - Snowflake: Configure later when the data is ready
-- Jupyter Notebook: [https://www.anaconda.com/](https://www.anaconda.com/)
-- VS Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-- Power BI: [https://powerbi.microsoft.com/en-us/downloads/](https://powerbi.microsoft.com/en-us/downloads/)
+- [Jupyter Notebook](https://www.anaconda.com/)
+- [VS Code](https://code.visualstudio.com/)
+- [Power BI](https://powerbi.microsoft.com/en-us/downloads/)
 - Jira: Configure later when the students are ready
 - Git: Configure later
 - Slack: Configure later
