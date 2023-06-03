@@ -51,7 +51,7 @@ from snowflake.snowpark import Session
 # TEST ABOVE PRECEDURE
 
 test_df = session.table('DB_NAME.SCHEMA_NAME.TABLE_NAME')\
-								 .select('*')
+		 .select('*')
 
 test_df.show() # if test_df can show the final result, the snowpark env has been installed successfully
 ```
