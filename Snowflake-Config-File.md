@@ -11,13 +11,13 @@ Apply the config file to run Snowflake and Snowpark in Jupyter Notebook
 - Instal ANACONDA and initialise Jupyter Notebook
 - Click “NEW” button at the right up corner to create a folder named “CONFIG_FILES”
 
-![Untitled](Snowflake-Config-File%20bbbfe7a13e99474e879bf2130d03a6d4/Untitled.png)
+![SnowflakeConfig1](SnowflakeConfig1.png)
 
-![Untitled](Snowflake-Config-File%20bbbfe7a13e99474e879bf2130d03a6d4/Untitled%201.png)
+![SnowflakeConfig2](SnowflakeConfig2.png)
 
 - Start a new notebook under this folder
 
-![Untitled](Snowflake-Config-File%20bbbfe7a13e99474e879bf2130d03a6d4/Untitled%202.png)
+![SnowflakeConfig3](SnowflakeConfig3.png)
 
 - Type Code below
 
