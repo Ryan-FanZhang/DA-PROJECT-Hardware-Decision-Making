@@ -27,7 +27,7 @@ pip install snowflake-snowpark-python
 # Specify Pandas packages that you want to install in the environment:
 pip install "snowflake-snowpark-python[pandas]"
 
-# Test above procedures - No errors returned means env installed successfully
+# Test above procedures - No errors returned means Snowflake env installed successfully
 from snowflake.snowpark.functions import avg
 import pandas as pd
 
