@@ -35,7 +35,7 @@ As mentioned in Week 1, you will serve as a data analyst in the data and analyti
     
 - System Flow Chart
     
-    ![Untitled](BUSINESS%20PROBLEM%2003443fd9566a4a709b5cb63397e55e2c/Untitled.png)
+    ![Business_Process_Flow_Chart](Week2/Business_Process_Flow_Chart.png)
     
 
 ## Business Problem Introduction
