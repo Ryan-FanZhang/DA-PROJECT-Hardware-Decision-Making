@@ -15,7 +15,7 @@ Step One:
 
 - Open the Terminal
 
-![Untitled](Automation%20Workflow%200df245056c2a4514ac6fa83f7c08ba3e/Untitled.png)
+![terminal.png](terminal.png)
 
 Step Two: 
 
@@ -29,7 +29,7 @@ Step Three:
 * * * * python /path/to/your/script.py
 ```
 
-![Untitled](Automation%20Workflow%200df245056c2a4514ac6fa83f7c08ba3e/Untitled%201.png)
+![command line format.png](command line format.png)
 
 Step Four:
 
