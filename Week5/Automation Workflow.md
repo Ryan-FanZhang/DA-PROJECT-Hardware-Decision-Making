@@ -29,7 +29,7 @@ Step Three:
 * * * * python /path/to/your/script.py
 ```
 
-![command line format.png](command line format.png)
+![command_line_format.png](command_line_format.png)
 
 Step Four:
 
